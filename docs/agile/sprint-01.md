@@ -15,8 +15,8 @@ PLAN-01 through PLAN-05 from the backlog. Deliver source plan, six role prompts,
 - [x] Backlog, roadmap, ready/done definitions and sprint recorded.
 - [x] Templates and synthetic experiment scope available.
 - [x] Evaluation specifications distinguish intended checks from executed results.
-- [ ] Relative-link and repository-content checks recorded in PR.
-- [ ] Greg reviews and accepts planning direction.
+- [x] Relative-link and repository-content checks recorded in PR.
+- [x] Greg reviews and accepts planning direction.
 
 ## Exclusions
 
@@ -28,4 +28,4 @@ Review whether Greg can find the offer, role instructions, next decision and evi
 
 ## Evidence log
 
-Initial document package prepared November 12, 2026. Runtime evaluation results: none. Customer validation: none. Final review and acceptance: pending.
+Initial document package prepared November 12, 2026. Runtime evaluation results: none. Customer validation: none. Planning baseline accepted through merged PR #1, confirmed by Greg and present on main. No operational or customer acceptance is implied.
