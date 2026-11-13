@@ -4,6 +4,10 @@ Business planning and agent operating instructions for Mad Mallard Solutions.
 
 **Status: planning only.** No runtime, deployed agents, production integrations, customer outreach or paid services are activated by this repository. Prompt instructions describe intended behavior; permission enforcement does not exist yet.
 
+## Current validation
+
+[No-cost vetting report](evaluations/plan-vetting-report.md) records executed checks, economics, limitations and next gates. [Approval and cost clarification](workflows/approval-and-cost-addendum.md) preserves the current zero-new-cost constraint.
+
 ## Start here
 
 - [Business operating plan](docs/business/operating-plan.md): offers, economics, agent roles, controls and sources.
