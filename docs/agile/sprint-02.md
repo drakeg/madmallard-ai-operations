@@ -32,3 +32,7 @@ Inspect original notes first, verify arithmetic and check that scope has not sil
 - [ ] PR reviewed and merged.
 
 Runtime inspection, activation, purchases, deployment, outreach and live data remain excluded.
+
+## Next review resources
+
+[Independent reviewer guide](../../evaluations/independent-review-guide.md), [reviewer handoff](../../rehearsals/agency-inquiries/reviewer-handoff.md), and [Sprint 3 readiness plan](sprint-03.md) are prepared. Their existence does not complete REH-03 or authorize runtime inspection.
