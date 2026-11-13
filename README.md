@@ -10,6 +10,9 @@ Business planning and agent operating instructions for Mad Mallard Solutions.
 - [Agile delivery plan](docs/agile/delivery-plan.md): working agreement and roadmap.
 - [Prioritized backlog](docs/agile/backlog.md): stories, dependencies and acceptance criteria.
 - [Sprint 1](docs/agile/sprint-01.md): planning foundation and next review milestone.
+- [Sprint 2](docs/agile/sprint-02.md): fictional customer rehearsal and review status.
+- [Rehearsal package](rehearsals/agency-inquiries/README.md): sample assessment, proposal and design.
+- [Sprint 3 readiness plan](docs/agile/sprint-03.md): review, inventory and implementation decision requirements.
 - [Agent index](agents/README.md): six copy-ready profiles and shared policy.
 - [Workflow guide](workflows/README.md): evidence and handoff stages.
 - [Templates](templates/README.md): reusable operating records.

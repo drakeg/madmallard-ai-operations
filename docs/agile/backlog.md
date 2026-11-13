@@ -4,16 +4,16 @@ Status reflects repository preparation, not customer or runtime readiness. P0 is
 
 | ID | Priority | Story and outcome | Acceptance criteria | Dependency | Status |
 |---|---|---|---|---|---|
-| PLAN-01 | P0 | Preserve operating model | Complete source plan linked; hypotheses labeled | None | Review |
-| PLAN-02 | P0 | Make roles reusable | Shared policy and six role files; reviewer separate | PLAN-01 | Review |
-| PLAN-03 | P0 | Establish Agile delivery | Roadmap, ready/done rules, backlog and sprint linked | None | Review |
-| PLAN-04 | P0 | Standardize handoffs | Task, assessment, proposal and owner packet templates | PLAN-01 | Review |
-| PLAN-05 | P0 | Specify quality checks | Failure and authority scenarios with expected results; not claimed passed | PLAN-02 | Review |
+| PLAN-01 | P0 | Preserve operating model | Complete source plan linked; hypotheses labeled | None | Done via PR #1 |
+| PLAN-02 | P0 | Make roles reusable | Shared policy and six role files; reviewer separate | PLAN-01 | Done via PR #1 |
+| PLAN-03 | P0 | Establish Agile delivery | Roadmap, ready/done rules, backlog and sprint linked | None | Done via PR #1 |
+| PLAN-04 | P0 | Standardize handoffs | Task, assessment, proposal and owner packet templates | PLAN-01 | Done via PR #1 |
+| PLAN-05 | P0 | Specify quality checks | Failure and authority scenarios with expected results; not claimed passed | PLAN-02 | Done via PR #1 |
 | DEC-01 | P0 | Select first buyer and offer | Greg records buyer, problem, price hypothesis and exclusions | PLAN-01 | Todo |
-| REH-01 | P1 | Draft fictional assessment | Synthetic notes, three recommendations, source assumptions | DEC-01 | Todo |
-| REH-02 | P1 | Draft fictional proposal | Two-system scope, acceptance, exclusions and pricing | REH-01 | Todo |
-| REH-03 | P1 | Review rehearsal independently | Critique, revised version and review outcome recorded | REH-02 | Todo |
-| VAL-01 | P1 | Design five-prospect test | Prospect criteria and conversation questions; no sends | DEC-01 | Todo |
+| REH-01 | P1 | Draft fictional assessment | Synthetic notes, three recommendations, source assumptions | DEC-01 working assumption | Review |
+| REH-02 | P1 | Draft fictional proposal | Two-system scope, acceptance, exclusions and pricing | REH-01 | Review |
+| REH-03 | P1 | Review rehearsal independently | Critique, revised version and review outcome recorded | REH-02 | Independent review pending |
+| VAL-01 | P1 | Design five-prospect test | Prospect criteria and conversation questions; no sends | DEC-01 working assumption | Review |
 | EXP-01 | P2 | Assess invoice pilot | Thirty-invoice scope, accuracy and effort decision rules | DEC-01 | Review of plan only |
 | ARCH-01 | P1 | Inventory current tools | Current Paperclip and access capabilities verified under authorized scope | Explicit inspection scope | Blocked |
 | ARCH-02 | P1 | Choose runtime | Compare existing stack with fresh option against control requirements | ARCH-01 | Blocked |
@@ -24,3 +24,7 @@ Status reflects repository preparation, not customer or runtime readiness. P0 is
 Planning stories PLAN-01 through PLAN-05 are S or M. Rehearsal stories are M. Architecture and build stories need re-estimation after inventory; no delivery date is assigned.
 
 No story may be marked Done solely because it appears in this table. Review completion must be recorded in the PR or sprint log.
+
+## Sprint 2 evidence
+
+See [Sprint 2](sprint-02.md) and its linked rehearsal package. PLAN stories were accepted through merged PR #1. DEC-01 remains Todo: the agency offer is a working rehearsal assumption. REH-01, REH-02 and VAL-01 have draft artifacts for review; REH-03 is not complete because author desk review is not independent.
