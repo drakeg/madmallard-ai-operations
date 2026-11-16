@@ -8,6 +8,10 @@ Business planning and agent operating instructions for Mad Mallard Solutions.
 
 [No-cost vetting report](evaluations/plan-vetting-report.md) records executed checks, economics, limitations and next gates. [Approval and cost clarification](workflows/approval-and-cost-addendum.md) preserves the current zero-new-cost constraint.
 
+## Business portfolio
+
+[Money-making project index](docs/business/portfolio.md) groups independent offerings by stage, buyer, demand evidence and deployment readiness. Shared GitHub topic: `madmallard-business`. New offering repositories use `madmallard-business-<offering>` and remain private by default.
+
 ## Start here
 
 - [Business operating plan](docs/business/operating-plan.md): offers, economics, agent roles, controls and sources.
