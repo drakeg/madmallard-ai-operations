@@ -1,5 +1,8 @@
 # Mad Mallard AI Operations
 
+[![License](https://img.shields.io/github/license/drakeg/madmallard-ai-operations)](https://github.com/drakeg/madmallard-ai-operations/blob/main/LICENSE)
+
+
 Business planning and agent operating instructions for Mad Mallard Solutions.
 
 **Status: planning only.** No runtime, deployed agents, production integrations, customer outreach or paid services are activated by this repository. Prompt instructions describe intended behavior; permission enforcement does not exist yet.
